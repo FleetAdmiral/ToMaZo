@@ -1,5 +1,5 @@
 {
-  "name": "CHANGE THIS : Extension boilerplate",
+  "name": "Can't figure this out",
   "version": "0.0.1",
   "manifest_version": 2,
   "description": "This extension was created with the awesome extensionizr.com",
@@ -10,10 +10,10 @@
     "128": "icons/icon128.png"
   },
   "default_locale": "en",
-  "page_action": {
-    "default_icon": "icons/icon19.png",
+  "browser_action": {
+    "default_icon": "icons/icon48.png",
     "default_title": "page action demo",
-    "default_popup": "src/page_action/page_action.html"
+    "default_popup": "page_action/page_action.html"
   },
   "content_scripts": [
     {
